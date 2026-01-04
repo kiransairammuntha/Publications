@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/📚-Research_Publications-blue?style=for-the-badge" alt="Publications">
+  <img src="https://www.opastpublishers.com/assets/images/opast-publisher-logo.png" alt="OPAST Publishers" width="200">
 </p>
 
 <h1 align="center">📄 Research Publications</h1>
@@ -214,29 +214,20 @@ The study aims to evaluate the effectiveness, scalability, and integration possi
 
 ---
 
-## 📞 Contact
+## 📞 Contact & Support
 
-<p align="center">
-  <a href="https://github.com/kiransairammuntha">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/kiransairammuntha">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+- **Project Repository**: https://github.com/kiransairammuntha/Publications
+- **Issues**: https://github.com/kiransairammuntha/Publications/issues
+- **Discussions**: https://github.com/kiransairammuntha/Publications/discussions
 
 ---
 
-## 📂 Repository Structure
+## 📊 Repository Stats
 
-```
-Publications/
-├── 📂 papers/
-│   └── securing-digital-communications-quantum-and-postquantum-cryptography.pdf
-├── 📂 citations/
-│   └── citations.bib
-└── 📄 README.md
-```
+![GitHub stars](https://img.shields.io/github/stars/kiransairammuntha/Publications?style=social)
+![GitHub forks](https://img.shields.io/github/forks/kiransairammuntha/Publications?style=social)
+![GitHub issues](https://img.shields.io/github/issues/kiransairammuntha/Publications)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/kiransairammuntha/Publications)
 
 ---
 
@@ -247,5 +238,7 @@ Publications/
 **Research • Innovation • Security**
 
 *"Protecting digital communications in the quantum era"*
+
+[⬆ Back to Top](#-research-publications)
 
 </div>
