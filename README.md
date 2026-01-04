@@ -202,7 +202,7 @@ The study aims to evaluate the effectiveness, scalability, and integration possi
 
 | Degree | Institution | Focus |
 |--------|-------------|-------|
-| 🎓 **Graduate Studies** | Webster University, USA | Computer & Information Sciences |
+| 🎓 **Graduate Studies** | Webster University, USA | Cybersecurity Operations |
 
 ### Research Interests
 
